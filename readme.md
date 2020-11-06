@@ -1,12 +1,6 @@
-===Custom Order Status Per Product WooCommerce===
-Tested up to: 5.5.1
-Tags: Woocommerce Status
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+<h1>Custom Order Status Per Product WooCommerce</h1>
 
-== Description ==
-
-**Woocommerce Custom Order Status Per Product** provide you can change order status per product in woocommerce. It allow to [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) make bulk of order with particular one product of status can be change.
+**[Woocommerce Custom Order Status Per Product](https://wordpress.org/plugins/wc-custom-order-status-per-product/)** provide you can change order status per product in woocommerce. It allow to [Woocommerce](https://en.wikipedia.org/wiki/WooCommerce) make bulk of order with particular one product of status can be change.
 
 > **Plugin Features**
 >
