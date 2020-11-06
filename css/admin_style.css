@@ -1,0 +1,77 @@
+a.occospp_add_status {
+    display: inline-block;
+    padding: 4px 6px;
+    color: #00aba8;
+    font-size: 14px;
+    border: 2px solid #00aba8;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-bottom: 25px;
+    margin-left: 10px;
+}
+
+p.occospp_remove_status {
+	display: inline-block;
+    padding: 4px 6px;
+    color: #00aba8;
+    font-size: 14px;
+    border: 2px solid #00aba8;
+    border-radius: 8px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.occospp_status_table {
+  width: 65%;
+}
+
+.occospp_status_table td, .occospp_status_table th {
+  padding: 8px;
+}
+
+.occospp_status_table th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+}
+
+.occospp-container .occospp_cover_div .oc_date_format_help {
+  margin-top: 7px;
+}
+
+.occospp-container .occospp_cover_div .oc_date_format_help .description {
+  display: inline-block;
+  width: 100%;
+  padding: 1px 0;
+}
+
+.occospp-container .occospp_cover_div .oc_date_format_help .description .ocfmhglgt {
+  background-color: #cccccc;
+  padding: 0px 6px;
+}
+
+.occospp-container .occospp_cover_div {
+  background-color: #f1f1f1;
+  padding: 10px;
+  border: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+
+.occospp-container .occospp_cover_div h2 {
+  background-color: #10B7B4;
+  color: #ffffff;
+  padding: 8px 8px;
+  font-size: 18px;
+  width: auto;
+}
+
+.occospp-container .button-primary {
+  margin: 15px 0;
+  background-color: #00aba8;
+  border-color: #00aba8;
+  padding: 3px 10px;
+  font-size: 15px;
+  font-weight: bold;
+  height: 100%;
+}
